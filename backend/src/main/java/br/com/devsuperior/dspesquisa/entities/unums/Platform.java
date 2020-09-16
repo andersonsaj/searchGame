@@ -3,9 +3,9 @@ package br.com.devsuperior.dspesquisa.entities.unums;
 
 public enum Platform {
 	
-	PC(1), 
-	PLAYSTATION(2),
-	XBOX(3);
+	PC(0), 
+	PLAYSTATION(1),
+	XBOX(2);
 	
 	
 	private int code;
